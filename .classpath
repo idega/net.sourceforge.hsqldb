@@ -7,6 +7,6 @@
   </classpathentry>
   <classpathentry kind="var" path="MAVEN_REPO/hsqldb/jars/hsqldb-1.7.2-rc6c.jar">
   </classpathentry>
-  <classpathentry kind="output" path="target/classes">
+  <classpathentry kind="output" path="target\classes">
   </classpathentry>
 </classpath>
