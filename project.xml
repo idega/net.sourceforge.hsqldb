@@ -6,8 +6,8 @@
   <name>HSQLDB Database</name>
   <groupId>bundles</groupId>
   <artifactId>net.sourceforge.hsqldb</artifactId>
-  <currentVersion>1.7.4</currentVersion>
-  <!--currentVersion>1.8.0-SNAPSHOT</currentVersion-->
+  <!--currentVersion>1.7.4</currentVersion-->
+  <currentVersion>1.8.0-SNAPSHOT</currentVersion>
 
   <organization/>
   <inceptionYear>2002</inceptionYear>
