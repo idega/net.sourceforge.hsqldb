@@ -8,19 +8,25 @@
   <artifactId>net.sourceforge.hsqldb</artifactId>
   <currentVersion>1.7.4</currentVersion>
   <!--currentVersion>1.8.0-SNAPSHOT</currentVersion-->
+
   <organization/>
   <inceptionYear>2002</inceptionYear>
   <shortDescription>An idegaWeb bundle for the HSQLDB Database</shortDescription>
   <versions>
-      <version>
+    <version>
       <id>1.7.2</id>
       <name>1.7.2</name>
       <tag>SOURCEFORGE_HSQLDB_1_7_2</tag>
     </version>
-      <version>
+    <version>
       <id>1.7.3</id>
       <name>1.7.3</name>
       <tag>SOURCEFORGE_HSQLDB_1_7_3</tag>
+    </version>
+    <version>
+      <id>1.7.4</id>
+      <name>1.7.4</name>
+      <tag>SOURCEFORGE_HSQLDB_1_7_4</tag>
     </version>
   </versions>
   <branches/>
