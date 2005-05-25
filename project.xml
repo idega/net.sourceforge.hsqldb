@@ -6,7 +6,8 @@
   <name>HSQLDB Database</name>
   <groupId>bundles</groupId>
   <artifactId>net.sourceforge.hsqldb</artifactId>
-  <currentVersion>1.8.0-SNAPSHOT</currentVersion>
+  <currentVersion>1.7.4</currentVersion>
+  <!--currentVersion>1.8.0-SNAPSHOT</currentVersion-->
   <organization/>
   <inceptionYear>2002</inceptionYear>
   <shortDescription>An idegaWeb bundle for the HSQLDB Database</shortDescription>
@@ -36,8 +37,8 @@
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>com.idega.core</artifactId>
-      <!--version>3.0.4</version-->
-      <version>SNAPSHOT</version>
+      <!--HELPER--><version>3.0.5</version><!--HELPER-->
+      <!--HELPERversion>SNAPSHOT</versionHELPER-->
       <type>jar</type>
       <url>http://www.idega.com/</url>
       <properties>
