@@ -28,6 +28,11 @@
       <name>1.7.4</name>
       <tag>SOURCEFORGE_HSQLDB_1_7_4</tag>
     </version>
+    <version>
+      <id>1.7.5</id>
+      <name>1.7.5</name>
+      <tag>SOURCEFORGE_HSQLDB_1_7_5</tag>
+    </version>
   </versions>
   <branches/>
   <developers>
@@ -43,8 +48,12 @@
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>com.idega.core</artifactId>
-      <!--HELPER--><version>3.0.6</version><!--HELPER-->
+      <!--HELPER-->
+
+      <version>3.0.6</version>
+      <!--HELPER-->
       <!--HELPERversion>SNAPSHOT</versionHELPER-->
+
       <type>jar</type>
       <url>http://www.idega.com/</url>
       <properties>
