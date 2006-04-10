@@ -7,7 +7,7 @@
   <groupId>bundles</groupId>
   <artifactId>net.sourceforge.hsqldb</artifactId>
   <!--currentVersion>1.7.5</currentVersion-->
-  <currentVersion>1.8.0-SNAPSHOT</currentVersion>
+  <currentVersion>1.8.0.3-SNAPSHOT</currentVersion>
 
   <organization/>
   <inceptionYear>2002</inceptionYear>
@@ -60,7 +60,7 @@
     <dependency>
       <groupId>hsqldb</groupId>
       <artifactId>hsqldb</artifactId>
-      <version>1.7.2-rc6c</version>
+      <version>1.8.0.2</version>
       <type>jar</type>
       <url>http://hsqldb.sourceforge.net</url>
       <properties>
