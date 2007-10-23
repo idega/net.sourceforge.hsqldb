@@ -49,16 +49,6 @@
   </developers>
   <dependencies>
     <dependency>
-      <groupId>bundles</groupId>
-      <artifactId>com.idega.core</artifactId>
-      <version>3.1.65</version>
-      <type>jar</type>
-      <url>http://www.idega.com/</url>
-      <properties>
-        <eclipse.dependency>true</eclipse.dependency>
-      </properties>
-    </dependency>
-    <dependency>
       <groupId>hsqldb</groupId>
       <artifactId>hsqldb</artifactId>
       <version>1.8.0.2</version>
