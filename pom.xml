@@ -11,7 +11,7 @@
   <groupId>com.idega.block.addon</groupId>
   <name>HSQLDB Database</name>
   <artifactId>net.sourceforge.hsqldb</artifactId>
-  <version>1.8.0.3-SNAPSHOT</version>
+  <version>1.8.0.3</version>
   <inceptionYear>2002</inceptionYear>
   <scm>
     <!--
@@ -20,6 +20,7 @@
      -->
     <connection>scm:cvs:ext:civilis@code.idega.com:/idega/cvs:com.idega.block.addon/net.sourceforge.hsqldb/</connection>
     <developerConnection>scm:cvs:ext:civilis@code.idega.com:/idega/cvs:com.idega.block.addon/net.sourceforge.hsqldb/</developerConnection>
+    <tag>com_idega_block_addon_super-4_0_1</tag>
   </scm>
 
   <developers>
